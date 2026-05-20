@@ -1,0 +1,9 @@
+streamlit
+PyMuPDF
+pandas
+scikit-learn
+transformers
+torch
+torchvision
+joblib
+gdown
